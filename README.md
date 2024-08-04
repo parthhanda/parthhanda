@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.redd.it/ddnm7kmznqd71.gif" alt="parthhanda" /> </p>
+![logo](https://github.com/parthhanda/parthhanda/blob/main/github_gif.gif)
 <h1 align="center">Hi 👋, I'm Parth Handa</h1>
 <h3 align="center">Driven by Curiosity, Powered by Code</h3>
 
