@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthhanda&theme=shadow_blue&hide_border=false" alt="parthhanda" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthhanda&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="parthhanda" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthhanda&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="parthhanda" /></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parthhanda&theme=2077&utcOffset=8)
 
