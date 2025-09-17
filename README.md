@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthhanda&label=Profile%20views&color=0e75b6&style=flat" alt="parthhanda" /> </p>
 
-- 🌱 I’m currently learning **C/C++, Full Stack Developer**
+- 🌱 I’m currently learning **JAVA, DSA, Full Stack Development**
 
 - 📫 How to reach me **work.parthhanda@gmail.com**
 
