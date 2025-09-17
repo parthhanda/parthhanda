@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C/C++, Full Stack Developer**
 
-- 📫 How to reach me **parth32131handa@gmail.com**
+- 📫 How to reach me **work.parthhanda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
